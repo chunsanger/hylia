@@ -1,9 +1,9 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
+title: Chris Hunsanger
+postsHeading: posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+metaDesc: 'This is my little space to share my passion for technology.'
 socialImage: ''
 ---
 
